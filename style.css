@@ -6,3 +6,12 @@ body {
     width: 100%;
     padding: 30px;
 }
+
+.ranch {
+    width: 75%;
+    margin: 0 auto;
+    background: white;
+    color: dimgray;
+    padding: 20px;
+    border-radius: 15px;
+}
