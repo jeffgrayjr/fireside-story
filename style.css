@@ -5,3 +5,12 @@ body {
   font-family: 'Satisfy', cursive;
   margin: 5em 25%;
 }
+
+.ranch {
+    width: 75%;
+    margin: 0 auto;
+    background: white;
+    color: dimgray;
+    padding: 20px;
+    border-radius: 15px;
+}
